@@ -8,16 +8,16 @@
 # თუ როდის და რატომ გამოიყენნეთ კონკრეტული ფუნქცია, შეგიძლიათ გამოიყენოთ კომენტარები.
 # აი ასე მაგალითად:
 
-# lets drav spuare whith librali "turtle"
-from turtle import * # actualle we active all the functions of turtle librali (ქართულადაც შეიძლება მაგრამ ჩვენ ხომ პროები ვართ და უნდა ვისწავლოთ ინგლისური)  :)
+# lets draw square whith libraly "turtle"
+from turtle import * # actually we active all the functions of turtle libraly (ქართულადაც შეიძლება მაგრამ ჩვენ ხომ პროები ვართ და უნდა ვისწავლოთ ინგლისური)  :)
 forward (100) 
 right(90)  # this function darw spuare whith size 100 
 forward (100)
 right(90)
 forward (100)
 right(90)
-forward (100)   # this function darw spuare whith size 100 
-exitonclick()          # this function exit the program when we click on the screen
+forward (100)   # this function darw square whith size 100 
+exitonclick()          # this function exits from the program when we click on the screen
 # done thank you for wathing my code
 
 # ეს იყო და ეს. ახლა ყველაფერი რაც # სიმბოლითი იწყება პაითონი ვერ ხედავს და ზუსტად ესაა კომენტარის ფუნქცია.
