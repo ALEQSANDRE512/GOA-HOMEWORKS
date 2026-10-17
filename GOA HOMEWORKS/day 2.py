@@ -10,11 +10,11 @@
 
 # lets draw square whith libraly "turtle"
 from turtle import * # actually we active all the functions of turtle libraly (ქართულადაც შეიძლება მაგრამ ჩვენ ხომ პროები ვართ და უნდა ვისწავლოთ ინგლისური)  :)
-forward (100) 
+forward(100) 
 right(90)  # this function darw spuare whith size 100 
 forward (100)
 right(90)
-forward (100)
+forward(100)
 right(90)
 forward (100)   # this function darw square whith size 100 
 exitonclick()          # this function exits from the program when we click on the screen
