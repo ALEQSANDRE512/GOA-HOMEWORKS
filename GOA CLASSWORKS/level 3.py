@@ -1,4 +1,8 @@
-km=7
-cm=km * 100000
-print (cm)
-# int ()  str da float cvlian ricxvebs
+cm = int(input())
+km = cm * (10 ** -5)
+print(km)
+
+saxeli = input()
+gvari = input()
+print("==========================================================================")
+print ("heloo " + saxeli +" " +gvari)
