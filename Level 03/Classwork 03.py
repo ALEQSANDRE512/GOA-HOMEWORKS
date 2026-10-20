@@ -4,5 +4,4 @@ print(km)
 
 saxeli = input()
 gvari = input()
-print("==========================================================================")
 print ("heloo " + saxeli +" " +gvari)
