@@ -110,3 +110,4 @@ print(ganayofi)
 # მე ვფიქრობ ტერმინალმა ყველაფერი უკვე აჩვენა
 print(f"ricxvi1s da ricxvi2is jami aris {jami} xolo sxvaoba {sxvaoba}")
 
+#

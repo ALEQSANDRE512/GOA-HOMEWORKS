@@ -22,4 +22,4 @@ password = input("enter your pasword only 6 letters: ")
 print(password[0:2] + "####" + password[-2:])
 
 
-
+#
